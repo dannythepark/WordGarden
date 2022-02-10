@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  WordGarden //////////////
+//  WordGarden ///////////////
 //
 //  Created by Danny Park on 2/6/22.
 //
